@@ -1,0 +1,15 @@
+{
+  "name": "meltwater-marathon",
+  "version": "0.1.2",
+  "author": "meltwater",
+  "summary": "Puppet Module for Mesos Marathon",
+  "license": "Apache License, Version 2.0",
+  "source": "https://github.com/mesosphere/marathon",
+  "project_page": "https://github.com/meltwater/puppet-marathon",
+  "issues_url": "https://github.com/mesosphere/marathon/issues",
+  "description": "Puppet Module for Mesos Marathon",
+  "dependencies": [
+    {"name":"puppetlabs/stdlib","version_requirement":">= 2.2.0"},
+    {"name":"camptocamp-archive"}
+  ]
+}

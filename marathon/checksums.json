@@ -1,0 +1,12 @@
+{
+  "Modulefile": "48f7156f1ac07299a7f70b230aa81036",
+  "README": "adb719fb528c866a79de094cda25256f",
+  "manifests/init.pp": "2c4f7d5fc17a4504d1ef8d0f27556532",
+  "manifests/package.pp": "099983dc94199aa48cb717a585994d25",
+  "manifests/service.pp": "e81fad0584ceb1d37a9219aa41f1ae6e",
+  "manifests/source.pp": "1965576e9063a8485b96527ef251fe8b",
+  "spec/spec_helper.rb": "a55d1e6483344f8ec6963fcb2c220372",
+  "templates/marathon.conf.erb": "44c523e32fd2959eed60a0e8564da92b",
+  "templates/marathon.service.erb": "d181b63bb07784a8bf29285cdb50d8da",
+  "templates/marathon.sh.erb": "f6f5734dad3ce0b06a7c79052766d327"
+}
